@@ -14,7 +14,6 @@ Welcome to my GitHub profile! Here you can find my projects, achievements, and s
 
 ## 🎯 Achievements on GitHub
 
-Here are some badges you can earn by contributing:
 
 | Badge               | My achievement                              |
 |---------------------|-----------------------------------------|
@@ -28,15 +27,15 @@ Here are some badges you can earn by contributing:
 
 ## 🚀 Projects I’m Proud Of
 
-- [My Project 1](https://github.com/haretazouzou/BlockchainWallet) — Description of project 1
-- [My Project 2](https://github.com/haretazouzou/forem) — Description of project 2
+- [BlockchainWallet](https://github.com/haretazouzou/BlockchainWallet) — This is my Blockchain Project
+- [Forem](https://github.com/haretazouzou/forem) — Marketing
 
 ---
 
 ## 📫 How to reach me
 
-- Twitter: [@yourtwitter](https://twitter.com/haretazouzou)
-- LinkedIn: [Your Name](https://linkedin.com/in/haretazouzou)
+- Twitter: [@haretazouzoutwitter](https://twitter.com/haretazouzou)
+- LinkedIn: [haretazouzou](https://linkedin.com/in/haretazouzou)
 - Email: haretazouzou@gmail.com
 
 ---
