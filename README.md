@@ -1,7 +1,6 @@
 # 🚀 My React Portfolio
 
 ![Portfolio Screenshot](./src/assets/project1.png)  
-[🔗 Live Demo](https://cyberboyayush.in)
 
 ## 📌 Overview
 
